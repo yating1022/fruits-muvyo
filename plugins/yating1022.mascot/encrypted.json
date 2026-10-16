@@ -1,0 +1,8 @@
+{
+ "version": 1,
+ "alg": "x25519-hkdf-sha256-aes256gcm",
+ "key_version": 1,
+ "epk": "2qZJuC7e/jiGf/hYwWemfG9uvVtz1ofh7I7RD7O5xGQ=",
+ "nonce": "QiGvi7MdAxQ6Ld/t",
+ "ciphertext": "831toMHCtJDsGbJkXigoLn0c3VaG0L1ag2ew9Tvqz17uzJIOCvkUp9l6Pag1+7WnP44Ze1GMjdkN6oVbQeiAhMSQ+hVvIZyXGt1+kQuuTgCE6UhISxDC3dxgGP47TmItPBByMbbwwbId+99PF1SXZmtAqm+yPMl99CcQvF6FIASheQ6A+bfJg+0Bg3y9PXwziBLsL7d5/YKzZdzrop2MZPpcuRUtQD8k/fcFhfF36vygqeZg7hcmJcP4hcTeEsYQ"
+}

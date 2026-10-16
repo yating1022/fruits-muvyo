@@ -1,0 +1,32 @@
+{
+  "api": 1,
+  "id": "yating1022.mascot",
+  "name": "祖国人",
+  "version": "1.0.0",
+  "author": "yating1022",
+  "description": "把慕慕 AI 助手的名字和立绘换成「祖国人」。只替换名字与外观，慕慕的能力、权限和对话方式都不变；不联网，也不运行任何逻辑。",
+  "entry": "main.js",
+  "min_mv_version": "3.11.1",
+  "permissions": {"domains": []},
+  "capabilities": {
+    "mascot": {
+      "name": "祖国人",
+      "frames": {
+        "idle": "mascot-idle.png",
+        "idle_blink": "mascot-blink.png",
+        "idle_talk": "mascot-talk.png",
+        "look_left": "mascot-look-left.png",
+        "look_upleft": "mascot-look-upleft.png",
+        "look_right": "mascot-look-right.png",
+        "waveA": "mascot-wave-a.png",
+        "waveB": "mascot-wave-b.png",
+        "point_left": "mascot-point-left.png",
+        "popcorn": "mascot-popcorn.png",
+        "thumbs": "mascot-thumbs.png",
+        "jump": "mascot-jump.png",
+        "crouch": "mascot-crouch.png",
+        "sitsmile": "mascot-sitsmile.png"
+      }
+    }
+  }
+}

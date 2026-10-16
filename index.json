@@ -1,0 +1,16 @@
+{
+  "name": "yating1022 的插件仓库",
+  "sequence": 1,
+  "plugins": [
+    {
+      "id": "yating1022.mascot",
+      "name": "祖国人",
+      "version": "1.0.0",
+      "description": "把慕慕 AI 助手的名字和立绘换成「祖国人」。只替换名字与外观，慕慕的能力、权限和对话方式都不变；不联网，也不运行任何逻辑。",
+      "author": "yating1022",
+      "path": "plugins/yating1022.mascot",
+      "api": 1
+    }
+  ],
+  "public_key": "1cFag10/jhs1West+al9dJHy2cDIqmLuAtMCZ9FJr8g="
+}

@@ -1,0 +1,43 @@
+{
+ "version": 1,
+ "certificate": {
+  "certificate": {
+   "aud": "mediavault-addon-author",
+   "version": 1,
+   "serial": 12,
+   "author_id": "gh-73951475",
+   "author": "yating1022",
+   "namespace": "yating1022",
+   "public_key": "4TinJKc4Mu8uh/K64F8LOaO4PuXyFcDFPY0PvNcYFHk=",
+   "issued_at": 1791859196,
+   "expires_at": 1823395196,
+   "content_key": "7gMrLGwstTVocTtaCevKgGd8xu7RKKzB62VI6QZyhFg=",
+   "content_key_version": 1
+  },
+  "signature": "qoWUGChxeXoNcwREbQP2i84V4Yt/RpxDuIOL0nKS35ETs4vAQfyTyCxLLhmiFKtUrga7bamKzpJpAC8EoUSpCQ=="
+ },
+ "payload": {
+  "plugin_id": "yating1022.mascot",
+  "version": "1.0.0",
+  "files": {
+   "README.md": "15ad3a9f2feb66ee6feb9a65f51a08c085cef7bd08868635e0d3be7f3617d512",
+   "encrypted.json": "f6042c825fd82847a9cacaa22c9ed75f7953089b0fc3987c4979b44df7d15edd",
+   "manifest.json": "5766a81382531af1d1e254d120cfbda1f3cd7e2cf91d98244b0859dd5c64bb22",
+   "mascot-blink.png": "bf33595af397106b5f5842d6899764b37cfd7f85f8a0322b7bf0e6651338b933",
+   "mascot-crouch.png": "08e34c8880f03113c258fecbab6a92c39834ba5d4aef9a6a2a48730c964952df",
+   "mascot-idle.png": "1b905cae2904240bd3324f933609e3938b240cd330943061a794d7ed093cc829",
+   "mascot-jump.png": "1252965529b6913201843a9f1c89f6ef86691345a5927a30ffca5ecde377c3be",
+   "mascot-look-left.png": "99e70cd3c159a1eee891db855692713d537ffc54c4f86a49826905bdccc8a772",
+   "mascot-look-right.png": "4cf82fa64aa191dd1cdb6e975b861d5789370d30524ff2b2ca0a6ec5c2613f7e",
+   "mascot-look-upleft.png": "99e70cd3c159a1eee891db855692713d537ffc54c4f86a49826905bdccc8a772",
+   "mascot-point-left.png": "d5bc8fa4d0f7c10479e24e9f9afbd22e391abdf8fca2d6bb84f253d5e4da7926",
+   "mascot-popcorn.png": "02b5b7b0f442995e8a996d806efa21d9d9a37eed6d9847fd462ac2864290bc2a",
+   "mascot-sitsmile.png": "29cdc8dbe09375a86bfd161186f2fd2cb15bbe888886eca5d2165c822e74566d",
+   "mascot-talk.png": "ad6c0498e8a7d6b30b8f557b351d19663c291e334212a1973bffed908bbe5a59",
+   "mascot-thumbs.png": "096123e849c6598c40c7a1bde4059bfd8c4b2c15835c9033673b760cb0cd8130",
+   "mascot-wave-a.png": "56d7dd59063b692216c644b348147dd9bea72c4469e76a9962ce46231927f3c9",
+   "mascot-wave-b.png": "3189a1234678879de43ee856e2550425a5998ec677d618c5c905af1339e64859"
+  }
+ },
+ "signature": "NrKKFQUnFzdTSwpxzPTk4yhn3Z/zK6gJlwxrYd/FcTA9Gl2RN2PLO+FH5HmbhfisaE9njbr57uU7LzNApD8sAA=="
+}
