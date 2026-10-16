@@ -29,7 +29,9 @@ while IFS= read -r f; do
     plugins/*/*)
       case "$base" in
         manifest.json|README.md|signature.json|encrypted.json) ;;
-        *) say "✗ ${f}：插件目录里只能有 manifest.json、encrypted.json、README.md、signature.json，不得上传明文 JS"
+        # 立绘（mascot frames）与插件图标是签名产物的一部分，随包发布
+        *.png|*.jpg|*.jpeg|*.webp) ;;
+        *) say "✗ ${f}：插件目录里只能有 manifest.json、encrypted.json、README.md、signature.json 和立绘/图标图片，不得上传明文 JS"
            fail=1 ;;
       esac ;;
   esac
